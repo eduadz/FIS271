@@ -1,0 +1,2 @@
+\babel@toc {brazilian}{}
+\contentsline {section}{\numberline {1}Funções vetoriais \cite {livrocalc3}}{3}%
